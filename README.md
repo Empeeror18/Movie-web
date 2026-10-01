@@ -82,5 +82,4 @@ src/
 
 ## Notes
 
-- The current navbar component is scaffolded and can be expanded later.
 - If a movie does not have a poster image, you may want to add a fallback image in the UI.
