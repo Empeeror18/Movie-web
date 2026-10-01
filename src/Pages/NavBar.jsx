@@ -1,7 +1,5 @@
-import '../css/NavBar.css'
-
-function NavBar(){
-    //You can add it here
+function NavBar() {
+  return null;
 }
 
-export default NavBar
+export default NavBar;
